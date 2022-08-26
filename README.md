@@ -1,4 +1,4 @@
-### Hi there 👋, Rohin Biyal
+### Hi there 👋, I'm Rohin Biyal
 #### Programmer & Digital Artist
 ![Programmer & Digital Artist](https://pbs.twimg.com/profile_banners/1495650939000143874/1659267070/1080x360)
 
