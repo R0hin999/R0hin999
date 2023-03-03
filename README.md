@@ -4,7 +4,7 @@
 
 I’m Rohin Biyal From India. I am a programmer and a digital artist and i am also enthusiastic towards game development.
 
-Skills: PYTHON/MYSQL/ JS / HTML / CSS
+Skills: SQL/NOSQL JS / HTML / CSS
 
 - 🌱 I’m currently learning Web Development 
 - ⚡ Fun fact: I Like to do everything in unique way , as my name is 
