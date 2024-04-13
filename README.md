@@ -5,7 +5,7 @@
 <div align="left">
   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me:<br>
--🔭 Currently, I am working on **React Native**.<br>- 🌱 I am currently learning **NextJS**.<br>- 👯 I am interested in collaborating on **in Web or Design Projects.**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at **rohinbiyal@gmail.com**<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: I love playing **video games and making artworks**.<br><br>
+-🔭 Currently, I am working on **React Native**.<br>- 🌱 I am currently learning **NextJS**.<br>- 👯 I am interested in collaborating on **in Web or Design Projects**.<br>- 💬 I Like to work cool and new ideas.  I am always happy to **learn more**.<br>- 📫 You can reach me at **rohinbiyal@gmail.com**<br>- ⚡ Fun Fact: I love playing **video games and making artworks**.<br><br>
 </div>
 <br>
 <h3 align="left">Connect with me:</h3>
