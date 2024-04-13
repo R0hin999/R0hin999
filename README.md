@@ -2,8 +2,11 @@
 
 ![Github readme banner](https://github-production-user-asset-6210df.s3.amazonaws.com/83909388/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240413T203641Z&X-Amz-Expires=300&X-Amz-Signature=25a176e324e0132f474129eff905bc2b8caba0dbece179b1c4bffe0e0d9cd30e&X-Amz-SignedHeaders=host&actor_id=103902071&key_id=0&repo_id=780136172)
 <br>
-##<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me:
+<div>
+  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me:<br>
 -🔭 Currently, I am working on **React Native**.<br>- 🌱 I am currently learning **NextJS**.<br>- 👯 I am interested in collaborating on **in Web or Design Projects.**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at **rohinbiyal@gmail.com**<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: I love playing **video games and making artworks**.<br><br>
+</div>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
